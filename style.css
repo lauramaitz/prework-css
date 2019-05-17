@@ -1,0 +1,37 @@
+body {
+    background-color: #F5DEB3;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: blue;
+    font-size: 48px;
+    text-decoration: underline;
+  }
+  
+  p {
+    color: limegreen;
+  }
+
+  .orange {
+      color: darkorange;
+  }
+
+  #fancy {
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    color: deeppink;
+  }
+  
+  #ugly {
+    font-family: "Comic Sans MS";
+    color: olive; 
+  }
+
+  .new-text {
+    color: red;
+}
+
+#green {
+    color: green;
+}
